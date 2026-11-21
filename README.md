@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/35205967/README.md)
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
