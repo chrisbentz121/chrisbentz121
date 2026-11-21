@@ -18,7 +18,7 @@
 
 ## About me
 
-I'm a software development student at **SENA**, interested in the intersection of **software development, data analysis and digital design**. I enjoy turning visual ideas into clear, useful and engaging digital experiences.
+A software development student at, interested in the intersection of **software development, data analysis and digital design**. I enjoy turning visual ideas into clear, useful and engaging digital experiences.
 
 My current learning path combines frontend development with interface design, while I continue strengthening my foundations in software development and data-oriented problem solving.
 
